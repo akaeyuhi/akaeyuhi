@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoSuimin)](https://github.com/NekoSuimin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaeyuhi)](https://github.com/NekoSuimin/github-readme-stats)
 
 🔭 I’m currently working on some projects on Python, JavaScript
 
