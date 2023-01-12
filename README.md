@@ -5,5 +5,4 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, C#</code>
 <code>📦 Tech stack: React.JS, Redux, ASP.NET</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@akaeyuhi](https://telegram.me/akaeyuhi)</code>
