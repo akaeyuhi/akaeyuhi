@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IP-04</code>
+<code>🎓 Student: KPI / IM-42mp</code>
 <code>⚪ Community: Kyiv Polytechnic Institute</code>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
